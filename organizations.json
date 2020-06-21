@@ -1,0 +1,180 @@
+{
+    "data": [
+        {
+            "id": "ck8jcn9uk029mrdm9zon34d8p",
+            "name": "0 Teste",
+            "businessName": "Teste final free",
+            "taxPayerId": "19191919191919",
+            "status": "INACTIVE",
+            "createdAt": "2020-04-02T22:47:19.000Z",
+            "updatedAt": "2020-04-03T13:07:05.000Z",
+            "assetConfiguration": {
+                "vehicle": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 4,
+                    "limit": 150,
+                    "pricing": 1,
+                    "hasDrivers": true,
+                    "remaining": 57
+                },
+                "driver": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 1,
+                    "limit": 1,
+                    "pricing": 1,
+                    "hasDrivers": true,
+                    "remaining": 0
+                }
+            }
+        },
+        {
+            "id": "ck8jdzxow06mus2nnadzjvlfl",
+            "name": "1 teste",
+            "businessName": "Teste de asset",
+            "taxPayerId": "12012901921092",
+            "status": "INACTIVE",
+            "createdAt": "2020-04-02T23:25:10.000Z",
+            "updatedAt": "2020-04-02T23:27:25.000Z",
+            "assetConfiguration": {
+                "vehicle": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 1,
+                    "limit": "849",
+                    "hasVehicles": true,
+                    "remaining": 847
+                },
+                "driver": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 1,
+                    "limit": 1,
+                    "hasDrivers": true
+                }
+            }
+        },
+        {
+            "id": "ck8jhvues0barrdm9wca0g2ul",
+            "name": "2 teste",
+            "businessName": "teste final 2 sa",
+            "taxPayerId": "12121201201201",
+            "status": "INACTIVE",
+            "createdAt": "2020-04-03T01:13:57.000Z",
+            "updatedAt": "2020-04-03T13:07:05.000Z",
+            "assetConfiguration": {
+                "vehicle": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 1,
+                    "limit": "99",
+                    "hasVehicles": true,
+                    "remaining": 10
+                },
+                "driver": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 1,
+                    "limit": 1,
+                    "hasDrivers": true
+                }
+            }
+        },
+        {
+            "id": "ck8exxum08znbp1nwvkrulv5f",
+            "name": "2918281",
+            "businessName": "192182",
+            "taxPayerId": "12.921.892/8192-81",
+            "status": "INACTIVE",
+            "createdAt": "2020-03-30T20:44:34.000Z",
+            "updatedAt": "2020-03-31T19:00:22.000Z",
+            "assetConfiguration": {
+                "vehicle": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 4,
+                    "limit": "732",
+                    "pricing": 1,
+                    "hasDrivers": true
+                },
+                "driver": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 1,
+                    "limit": "732",
+                    "pricing": 1,
+                    "hasDrivers": true
+                }
+            }
+        },
+        {
+            "id": "ck8ex4xq7agkboulz5n9saks0",
+            "name": "2teste",
+            "businessName": "alibaba",
+            "taxPayerId": "12.019.210/2910-29",
+            "status": "INACTIVE",
+            "createdAt": "2020-03-30T20:22:05.000Z",
+            "updatedAt": "2020-03-31T19:00:22.000Z",
+            "assetConfiguration": {
+                "vehicle": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 4,
+                    "limit": "12",
+                    "pricing": 1,
+                    "hasDrivers": false
+                },
+                "driver": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 1,
+                    "limit": "12",
+                    "pricing": 1,
+                    "hasDrivers": false
+                }
+            }
+        },
+        {
+            "id": "ck8ex6ju98uakp1nw8rxgsyfy",
+            "name": "3teste",
+            "businessName": "porra",
+            "taxPayerId": "12.891.021/9281-98",
+            "status": "INACTIVE",
+            "createdAt": "2020-03-30T20:23:20.000Z",
+            "updatedAt": "2020-03-31T19:00:22.000Z",
+            "assetConfiguration": {
+                "vehicle": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 1,
+                    "limit": "10",
+                    "pricing": 1,
+                    "hasDrivers": true
+                },
+                "driver": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 1,
+                    "limit": "10",
+                    "pricing": 1,
+                    "hasDrivers": true
+                }
+            }
+        },
+{
+            "id": "ck98wp7xl9imc2ane07jeqh5r",
+            "name": "YNOVA TRANSPORTES E LOGISTICA LTDA",
+            "businessName": "YNOVA TRANSPORTES E LOGISTICA LTDA",
+            "taxPayerId": "21.329.965/0001-00",
+            "status": "ACTIVE",
+            "createdAt": "2020-04-20T20:02:57.000Z",
+            "assetConfiguration": {
+                "vehicle": {
+                    "defaultUpdateIntervalInDays": 14,
+                    "maxUpdatesPerMonth": 2,
+                    "limit": "110",
+                    "pricing": 2,
+                    "hasVehicles": true,
+                    "remaining": 13
+                },
+                "driver": {
+                    "defaultUpdateIntervalInDays": 30,
+                    "maxUpdatesPerMonth": 1,
+                    "limit": "60",
+                    "pricing": 3,
+                    "hasDrivers": true,
+                    "remaining": 13
+                }
+            }
+        }
+    ]
+}
