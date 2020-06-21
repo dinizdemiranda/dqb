@@ -126,54 +126,6 @@
             }
         },
         {
-            "id": "cjv2rkas97onap3nga47vq6vh",
-            "name": "3 Corações",
-            "businessName": "3 Corações",
-            "taxPayerId": "17467515000107",
-            "status": "INACTIVE",
-            "createdAt": "2019-04-29T19:36:39.000Z",
-            "updatedAt": "2019-06-05T20:31:33.000Z",
-            "assetConfiguration": {
-                "vehicle": {
-                    "defaultUpdateIntervalInDays": 7,
-                    "maxUpdatesPerMonth": 4,
-                    "limit": 150,
-                    "remaining": 68
-                },
-                "driver": {
-                    "defaultUpdateIntervalInDays": 30,
-                    "maxUpdatesPerMonth": 1,
-                    "limit": 150,
-                    "remaining": 144
-                }
-            }
-        },
-        {
-            "id": "ck4wyrgq4001942notmyheujk",
-            "name": "3P Transfer",
-            "businessName": "Pedro Paulo Pinheiro - 3P Transfer",
-            "taxPayerId": "16490792000160",
-            "status": "ACTIVE",
-            "createdAt": "2020-01-02T16:48:37.000Z",
-            "updatedAt": "2020-02-19T19:08:48.000Z",
-            "assetConfiguration": {
-                "vehicle": {
-                    "defaultUpdateIntervalInDays": 7,
-                    "maxUpdatesPerMonth": 4,
-                    "limit": 70,
-                    "pricing": 5,
-                    "remaining": 53
-                },
-                "driver": {
-                    "defaultUpdateIntervalInDays": 30,
-                    "maxUpdatesPerMonth": 1,
-                    "limit": 40,
-                    "pricing": 3.5,
-                    "remaining": 39
-                }
-            }
-        },
-        {
             "id": "ck8ex6ju98uakp1nw8rxgsyfy",
             "name": "3teste",
             "businessName": "porra",
